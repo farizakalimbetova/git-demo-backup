@@ -1,21 +1,6 @@
-Hello World
-It is Fariza
-demo testing
-the git functions
-
------------------------------------------
-
-updates for the new branch
-
-
-----------------------
-
-Other update to another branch
-
----------------
-second couplet for master branch
----------
-adding the third couplet for feature branch
-
-----
-checking tags
+That Arizona sky
+Burning in your eyes
+You look at me and babe, I wanna catch on fire
+It's buried in my soul
+Like California gold
+You found the light in me that I couldn't find
